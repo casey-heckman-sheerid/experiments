@@ -11,6 +11,7 @@
 
     <modules>
         <module>resource-bundle</module>
+        <module>logging-filtering-stacktraces</module>
     </modules>
 
     <build>
