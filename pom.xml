@@ -12,6 +12,7 @@
     <modules>
         <module>resource-bundle</module>
         <module>logging-filtering-stacktraces</module>
+        <module>sqs-jms-example</module>
     </modules>
 
     <build>
