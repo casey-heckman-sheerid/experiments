@@ -2,7 +2,7 @@
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
             <pattern>
-                %-5level - %msg%n%rEx{full, com.sheerid.a,com.sheerid.b}
+                %-5level - %msg%n%rEx{full, com.example.app}
             </pattern>
         </encoder>
     </appender>
